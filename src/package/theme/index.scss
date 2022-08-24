@@ -1,0 +1,8 @@
+@import "./process-designer.scss";
+@import "./process-panel.scss";
+
+.a-form {
+	.a-select,.a-date-editor.a-input, .a-range-editor.a-input__inner {
+			width: 100%;
+	}
+}
